@@ -47,3 +47,7 @@
 
 此时，骑士策马跑出的路径与起点终点间的直线所圈成的面积最大,圈地面积为`s^2/2π`。
 
+***
+## 代码样例
+### [SampleCode](https://github.com/czlsy009/Algorithm4JoyCastle/tree/master/Scripts)
+
