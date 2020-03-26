@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-public class RectangleOverlay {
+public patial class Algorithm {
     /// <summary>
     /// 定义矩形坐标结构，假定坐标都用Int32整数表示
     /// </summary>
