@@ -21,18 +21,6 @@ namespace CommonManagers
         /// </summary>
         private readonly List<TimerInfo> m_timerInfos = new List<TimerInfo>();
 
-        //private static TimerManager _instance;
-        //public static TimerManager Instance
-        //{
-        //    get
-        //    {
-        //        if (_instance == null)
-        //        {
-        //            _instance = new TimerManager();
-        //        }
-        //        return _instance;
-        //    }
-        //}
         private void Awake()
         {
             Instance = this;
