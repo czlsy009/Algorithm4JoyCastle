@@ -3,7 +3,7 @@
 ## 题目一 字符串分割
 给定一个字符串`s`和一个单词集合`wordSet`,请编写代码判断`s`是否可以切分为由集合中单词构成的句子。
 
-### [算法代码](https://github.com/czlsy009/Algorithm4JoyCastle/blob/master/RectangleOverlay.cs)
+### [算法代码](https://github.com/czlsy009/Algorithm4JoyCastle/blob/master/WordSplit.cs)
 
 ***
 ## 题目二 平面矩形重叠
@@ -17,7 +17,7 @@
 * 平行矩形：可将所有矩形的顶点归置到坐标轴上，矩形在坐标轴上形成线段，若矩形有重叠，则两轴上的线段必定有重合部分。
 * 旋转矩形：以矩形的分别边构建坐标系，回归平行矩形的方式，并考虑边的斜率。
 
-### [算法代码](https://github.com/czlsy009/Algorithm4JoyCastle/blob/master/WordSplit.cs)
+### [算法代码](https://github.com/czlsy009/Algorithm4JoyCastle/blob/master/RectangleOverlay.cs)
 
 ### 优化方向
 既然题目中给出数量为10000，因数量较大，目前仅做了判定结果的记忆回溯，还可考虑分区、建树等方向。
